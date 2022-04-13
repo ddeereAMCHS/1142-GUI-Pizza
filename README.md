@@ -22,6 +22,7 @@
   - Red peppers
 - Include a button for submitting the order
   - When the button is clicked, print the order
+- When you are done, uncomment the print statement in `Done.java`
 
 ***Example Output:***\
 Order for John:\
