@@ -1,5 +1,7 @@
 # GUI Pizza
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `GuiPizza.java`
 - You will be making a GUI for a customer to order a pizza
 - Include a text field for the customer to enter their name
