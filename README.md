@@ -24,6 +24,7 @@
   - Red peppers
 - Include a button for submitting the order
   - When the button is clicked, print the order
+  - If additional orders are submitted, the output should still be accurate
 - When you are done, uncomment the print statement in `Done.java`
 
 ***Example Output:***\
