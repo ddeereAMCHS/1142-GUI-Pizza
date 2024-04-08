@@ -1,6 +1,6 @@
 # GUI Pizza
 
-## Due: Fri 4/14 at 11:59 PM
+## Due: Fri 4/12 at 11:59 PM
 
 - Create a program called `GuiPizza.java`
 - You will be making a GUI for a customer to order a pizza
