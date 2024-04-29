@@ -6,7 +6,7 @@
 - You will be making a GUI for a customer to order a pizza
 - Include a text field for the customer to enter their name
 - Include a group of radio buttons for the customer to select one of the three sizes (small, medium, or large)
-- Include a group of radio buttons for the customer to select one of the three styles (hand tossed, deep dish, thin and crispy)
+- Include a group of radio buttons for the customer to select one of the three styles (hand tossed, deep dish, or thin and crispy)
 - Include a group of check boxes for the customer to select the toppings
   - Ham
   - Beef
